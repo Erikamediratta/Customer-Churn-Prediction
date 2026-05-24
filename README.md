@@ -5,7 +5,7 @@ An end-to-end machine learning project that predicts whether a telecom customer
 will churn using the IBM Telco Customer Churn dataset (7032 customers, 20 features).
 
 ## Live Demo
-[Add Streamlit link here after deployment]
+https://erikamediratta-customer-churn-prediction-app-m0o8io.streamlit.app/
 
 ## Tech Stack
 - Python, Pandas, NumPy
